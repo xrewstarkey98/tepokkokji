@@ -1,0 +1,85 @@
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/1cvrjCWhStLZVcCj00JetL_AT2o=/0x82:720x488/1280x720/filters:quality(75):strip_icc()/kly-media-production/medias/4041706/original/090367400_1654250776-BWF_-_Ilustrasi_Turnamen_BWF_copy.jpg" group-title="LIVE BADMINTON",BWF COURT 1 
+https://isus.cc/php/huya.php?id=30805928
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/1cvrjCWhStLZVcCj00JetL_AT2o=/0x82:720x488/1280x720/filters:quality(75):strip_icc()/kly-media-production/medias/4041706/original/090367400_1654250776-BWF_-_Ilustrasi_Turnamen_BWF_copy.jpg" group-title="LIVE BADMINTON",BWF COURT 2
+https://isus.cc/php/huya.php?id=30805929
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/1cvrjCWhStLZVcCj00JetL_AT2o=/0x82:720x488/1280x720/filters:quality(75):strip_icc()/kly-media-production/medias/4041706/original/090367400_1654250776-BWF_-_Ilustrasi_Turnamen_BWF_copy.jpg" group-title="LIVE BADMINTON",BWF COURT 3
+https://isus.cc/php/huya.php?id=30805930
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/1cvrjCWhStLZVcCj00JetL_AT2o=/0x82:720x488/1280x720/filters:quality(75):strip_icc()/kly-media-production/medias/4041706/original/090367400_1654250776-BWF_-_Ilustrasi_Turnamen_BWF_copy.jpg" group-title="LIVE BADMINTON",BWF COURT 4
+https://isus.cc/php/huya.php?id=30805931
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/10/18/20241018014354440490_31.png" group-title="LIVE BADMINTON",Astro Badminton 1 🇲🇾 (Alt)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
+https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=badminton
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/10/18/20241018014354440490_31.png" group-title="LIVE BADMINTON",Astro Badminton 1 🇲🇾
+https://iptv.8plus.eu.org/live/encrypted/OWUxZTE1MDcyNGFiNjgzZDczMDI2OTZiMGQ3OTk4OWQ6Y2M3YjM1ZWRmODU5ZjRmOGJhZmZjZmUzZmJhZjAxODY4NDFiZWIwMTAyODRmOTlmNjFkNWI3NDQ5ZmQ2ODFhYWVlZjBkOTVmNzJhYWMyNGMwZDVjNDRhYjFlNmQyM2QxOWNiZTViODYwMmQ2NjliYWU5OGViMjI1MjgzYjg3Njc0MGQzMzE3NjllZWRiMWEwMmQ2NDJmMjQxNzgwZDY5ZDE4OWM0MWFmMzg3MTEzYzcyYzMzNDkwZTBiNmI2YWI0Yzk4YmJlOGUxODhlNmYxZjFkMjU4NzI0OThkMjdlNmQ4YTFkOTQyN2MzYTU3MjA0ZThkY2IyMjU3M2I3ZTM2NzMyMmNmNjNhMGVmNDZlOTJhZDM1YTdhY2U4Y2YwZmE3MWRkMzBiY2RlZjdjM2I2Nzc1YTQ0YTEwNmMyMTVhZjllZjk3ZmY4ODQwZTE1OGIzOTExZDBlZTBiYmMwOTc4MA?username=tg_9z6zu2op
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-badminton
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="LIVE BADMINTON",SPOTV 1 🇰🇷
+https://live-th10.myjktv.com/watch/live.m3u8?video=spotv_540&sid=nzBMVOLnaWw7dUmlUos3tELz8ccjTTXrLmwGKEvB&secret=e35c109e233e9c5da08a058c9ce29761&time=1767714463
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV Prime" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png" group-title="LIVE BADMINTON",SPOTV Prime 🇰🇷
+https://live-th10.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=9fcfb00fJCbgH9pTjDpp2Q1EFKKlRu2GZvVd1i1u&secret=4080e3d0a1068826704911b8853b620c&time=1767803179
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV Prime 2" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/8b3a24e8f2e7e5a5d591d94e1420990d.png" group-title="LIVE BADMINTON",SPOTV Prime 2 🇰🇷
+https://live-th10.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=32izxUvYl3fEraNifZa67JkcuBXNWdkZJOk2yjNW&secret=3e382f9ba62d36a5ef0e8fa2eb3c4760&time=1767830756
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV Prime+" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/784ba49d34bc3b29f93ab906a3adabc0.png" group-title="LIVE BADMINTON",SPOTV Prime+ 🇰🇷
+https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_540&sid=hiPdNSy2gSkZCmPSR97QAm1FCC4aoB0KrcIyAZKa&secret=74a5d8d0ed061fbb09816ab1de181649&time=1767830290
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png" group-title="LIVE BADMINTON",SPOTV 2 🇰🇷
+https://live-th10.myjktv.com/watch/live.m3u8?video=spotv_2_540&sid=BwRoFwH9T3CiRbMDV7rJkGmIVETTDpOHH3exPFUE&secret=65de450449eac8944f76f002bf845454&time=1767832696
+
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 2" tvg-logo="https://i.postimg.cc/zXk5hCMV/IMG-4195.png" group-title="LIVE BADMINTON",True Sports 2 HD 🇹🇭
+http://6395online.com:8080/live/Iptv6988/0905692638/391444.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 7" tvg-logo="https://i.postimg.cc/bNTGwDwL/IMG-3229.png" group-title="LIVE BADMINTON",True Sports 7 HD 🇹🇭
+http://6395online.com:8080/live/Iptv6988/0905692638/391448.ts
+
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042722110292_79.png" group-title="LIVE BADMINTON",Hub Sports 1 HD 🇸🇬
+http://myxpanel.pro//live/Axel/1234/288363.ts
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042621415646_73.png" group-title="LIVE BADMINTON",Hub Sports 2 HD 🇸🇬
+http://myxpanel.pro//live/Axel/1234/288362.ts
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/541_144.png" group-title="LIVE BADMINTON",Astro Badminton 2 🇲🇾
+http://radioactivetv1.com:80/live/2RA1135B3Q8FT6F/qDxsq0Tjqp/1170911.ts
+
+
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="TV.2.Sport.dk" tvg-logo="https://cdn.images.simply.tv/7821911916808977975" group-title="LIVE BADMINTON",TV2 Sport 🇩🇰
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"34dc0e5f6da90237bf6a70fc50786920":"3afd582714c118e21d83ac8be40d17bb","34dc0e5f6da90237bf6a70fc50786910":"d80d384de9f8daa996762c4df98afaf5"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sporthd_dk_live/sm_tv2sporthd_dk_live.isml//playlist.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="TV.2.Sport.dk" tvg-logo="https://cdn.images.simply.tv/7821911916808977975" group-title="LIVE BADMINTON",TV2 Sport 🇩🇰 (BACKUP)
+http://myxpanel.pro:80//live/Melo/Melo/4782.ts
+
+
+#EXTINF:-1 tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-lachaine-v4-000/320" group-title="LIVE BADMINTON",la chaine L'ÉQUIPE 🇫🇷
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/5/56/Star_Sports_Select_1_HD.png/revision/latest/scale-to-width-down/985?cb=20250209084257&path-prefix=vi" group-title="LIVE BADMINTON",Star Sport Select 1 🇮🇳
+http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" group-title="LIVE BADMINTON",Star Sport Select 2 🇮🇳
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="LIVE BADMINTON",Elta Sports 2 🇹🇼
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-2
+
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="LIVE BADMINTON",Elta Sports 3 🇹🇼
+https://rakyattv.my.id/donate/stream.p
+hp/.m3u8?id=elta-sports-3
+
+
