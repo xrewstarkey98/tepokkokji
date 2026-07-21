@@ -74,9 +74,8 @@ http://radioactivetv1.com:80/live/2RA1135B3Q8FT6F/qDxsq0Tjqp/1090648.ts
 #KODIPROP:inputstream.adaptive.license_key={"34dc0e5f6da90237bf6a70fc50786920":"3afd582714c118e21d83ac8be40d17bb","34dc0e5f6da90237bf6a70fc50786910":"d80d384de9f8daa996762c4df98afaf5"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sporthd_dk_live/sm_tv2sporthd_dk_live.isml//playlist.mpd
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="TV.2.Sport.dk" tvg-logo="https://cdn.images.simply.tv/7821911916808977975" group-title="LIVE BADMINTON",TV2 Sport 🇩🇰 (BACKUP)
-http://myxpanel.pro:80//live/Melo/Melo/4782.ts
-
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="TV.2.Sport.dk" tvg-logo="https://cdn.images.simply.tv/7821911916808977975" group-title="LIVE BADMINTON",TV2 Sport 🇩🇰 (S2)
+http://radioactivetv1.com:80/live/2RA1135B3Q8FT6F/qDxsq0Tjqp/1225804.ts
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8109726-9708-48ac-b7ae-68e564aa6843/df1t98y-922bf926-8143-475a-966a-be6027154b70.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lODEwOTcyNi05NzA4LTQ4YWMtYjdhZS02OGU1NjRhYTY4NDMvZGYxdDk4eS05MjJiZjkyNi04MTQzLTQ3NWEtOTY2YS1iZTYwMjcxNTRiNzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B6pMYsBUQE6VgGaTL5PmJdviQn4sh5GzMKDhMH0PT5U" group-title="LIVE BADMINTON",CCTV 5 🇨🇳
 http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cctv5hd265/51/20191230/index.m3u8?msisdn=419cc7473b78ed57211ebca96be5ef42&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260721100320&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=14.20.134.144&SecurityKey=20260721100320&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7cb0bc2efea549f6a17ba8784dbe9041&sv=10004&ct=android
