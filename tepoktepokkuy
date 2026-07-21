@@ -1,3 +1,19 @@
+UPDATE DAILY
+
+#EXTINF:-1 group-title="LIVE BADMINTON",BWF COURT 1 (China)
+http://202.59.80.168:8097/player/#http://43.174.102.119/hlslive-tx-2-cdn.ysp.cctv.cn/ysp/2031501203.m3u8
+
+#EXTINF:-1 group-title="LIVE BADMINTON",BWF COURT 2 (China)
+http://27.221.52.235/play.cbalive.weibisai.com/live/4271152999993061_AiSD.m3u8?txSecret=2b74eb266aedf2787cb1638eb6ebf966&txTime=6A5FEBE0
+
+#EXTINF:-1 group-title="LIVE BADMINTON",BWF COURT 3 (China)
+http://27.221.52.235/play.cbalive.weibisai.com/live/4271153103084061_AiSD.m3u8?txSecret=6067c7b0427571e2bc7e08ce1867b1ab&txTime=6A5FEBE0
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/1cvrjCWhStLZVcCj00JetL_AT2o=/0x82:720x488/1280x720/filters:quality(75):strip_icc()/kly-media-production/medias/4041706/original/090367400_1654250776-BWF_-_Ilustrasi_Turnamen_BWF_copy.jpg" group-title="LIVE BADMINTON",BWF COURT 1 
 https://isus.cc/php/huya.php?id=30805928
 
