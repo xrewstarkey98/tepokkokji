@@ -1,7 +1,10 @@
 UPDATE DAILY
 
 #EXTINF:-1 group-title="LIVE BADMINTON",BWF COURT 1 (China)
-http://202.59.80.168:8097/player/#http://43.174.102.119/hlslive-tx-2-cdn.ysp.cctv.cn/ysp/2031501203.m3u8
+https://tepokkokji.akunnontonmibox.workers.dev/?url=https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_on_540&sid=B0NRwwCLHyg6yKsx9BdK53WgIQrqt6hmPxN30g4z&secret=74cf08369158a9979c079dc2e6f1f5b9&time=1784682998
+
+
+
 
 #EXTINF:-1 group-title="LIVE BADMINTON",BWF COURT 2 (China)
 http://27.221.52.235/play.cbalive.weibisai.com/live/4271152999993061_AiSD.m3u8?txSecret=2b74eb266aedf2787cb1638eb6ebf966&txTime=6A5FEBE0
@@ -25,6 +28,16 @@ https://isus.cc/php/huya.php?id=30805930
 
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/1cvrjCWhStLZVcCj00JetL_AT2o=/0x82:720x488/1280x720/filters:quality(75):strip_icc()/kly-media-production/medias/4041706/original/090367400_1654250776-BWF_-_Ilustrasi_Turnamen_BWF_copy.jpg" group-title="LIVE BADMINTON",BWF COURT 4
 https://isus.cc/php/huya.php?id=30805931
+
+
+worker
+
+https://tepokkokji.akunnontonmibox.workers.dev/?url=https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_on_540&sid=B0NRwwCLHyg6yKsx9BdK53WgIQrqt6hmPxN30g4z&secret=74cf08369158a9979c079dc2e6f1f5b9&time=1784682998
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/10/18/20241018014354440490_31.png" group-title="LIVE BADMINTON",Astro Badminton 1 🇲🇾 (Alt)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
